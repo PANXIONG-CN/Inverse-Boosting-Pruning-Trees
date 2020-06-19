@@ -5,7 +5,7 @@ The Inverse boosting pruning trees code should be compiled with scikit-learn 0.1
 
 """
 
-@auther: LeiTong, Xiong Pan
+@author: LeiTong, Xiong Pan
 
 @email: lt228@leicester.ac.uk, 
 
